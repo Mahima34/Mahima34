@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mahima Rajput
 ### 💻 Front-End Developer | React.js · WordPress · Tailwind CSS
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-4A4A4A?style=flat&logo=googlechrome&logoColor=white)]([https://mahima-rajput-portfolio-live-website.netlify.app/](https://portfolio-web-io.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-4A4A4A?style=flat&logo=googlechrome&logoColor=white)]([[https://mahima-rajput-portfolio-live-website.netlify.app/]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahima--rajput36-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahima-rajput36/)
 [![GitHub](https://img.shields.io/badge/GitHub-Mahima34-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mahima34)
 [![Gmail](https://img.shields.io/badge/Email-mahimarajput72-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahimarajput72@gmail.com)
