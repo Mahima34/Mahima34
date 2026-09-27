@@ -50,42 +50,42 @@ I enjoy working across the complete development process — from creating intera
 ### 💻 Frontend
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5" />
 </a>
 &nbsp;
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3" />
 </a>
 &nbsp;
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" />
 </a>
 &nbsp;
 
 <a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" width="50" alt="React" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React" />
 </a>
 &nbsp;
 
 <a href="https://nextjs.org/">
-<img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js" />
 </a>
 &nbsp;
 
 <a href="https://redux.js.org/">
-<img src="https://skillicons.dev/icons?i=redux" width="50" alt="Redux" />
+  <img src="https://skillicons.dev/icons?i=redux" width="50" alt="Redux" />
 </a>
 &nbsp;
 
 <a href="https://tailwindcss.com/">
-<img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS" />
 </a>
 &nbsp;
 
 <a href="https://getbootstrap.com/">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap" />
 </a>
 
 <br><br>
@@ -93,27 +93,27 @@ I enjoy working across the complete development process — from creating intera
 ### ⚙️ Backend & Database
 
 <a href="https://nodejs.org/">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js" />
 </a>
 &nbsp;
 
 <a href="https://expressjs.com/">
-<img src="https://skillicons.dev/icons?i=express" width="50" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express.js" />
 </a>
 &nbsp;
 
 <a href="https://www.mongodb.com/">
-<img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB" />
 </a>
 &nbsp;
 
 <a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL" />
 </a>
 &nbsp;
 
 <a href="https://www.typescriptlang.org/">
-<img src="https://skillicons.dev/icons?i=typescript" width="50" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="50" alt="TypeScript" />
 </a>
 
 <br><br>
@@ -121,42 +121,42 @@ I enjoy working across the complete development process — from creating intera
 ### 🧰 Tools & DevOps
 
 <a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="50" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git" />
 </a>
 &nbsp;
 
 <a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
 </a>
 &nbsp;
 
 <a href="https://vite.dev/">
-<img src="https://skillicons.dev/icons?i=vite" width="50" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=vite" width="50" alt="Vite" />
 </a>
 &nbsp;
 
 <a href="https://webpack.js.org/">
-<img src="https://skillicons.dev/icons?i=webpack" width="50" alt="Webpack" />
+  <img src="https://skillicons.dev/icons?i=webpack" width="50" alt="Webpack" />
 </a>
 &nbsp;
 
 <a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker" />
 </a>
 &nbsp;
 
 <a href="https://www.linux.org/">
-<img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux" />
 </a>
 &nbsp;
 
 <a href="https://vercel.com/">
-<img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel" />
 </a>
 &nbsp;
 
 <a href="https://www.netlify.com/">
-<img src="https://skillicons.dev/icons?i=netlify" width="50" alt="Netlify" />
+  <img src="https://skillicons.dev/icons?i=netlify" width="50" alt="Netlify" />
 </a>
 
 </div>
@@ -179,29 +179,29 @@ I enjoy working across the complete development process — from creating intera
 
 # 🚀 Featured Projects
 
-### 🛍️ E-Commerce Web Application
+## 🛍️ E-Commerce Web Application
 
 **React.js · Vite · Tailwind CSS · JavaScript**
 
 Modern eCommerce interface built with reusable React components and a responsive user experience.
 
-**Highlights**
+### Highlights
 
 - 🧩 Reusable component architecture
 - 🛒 Product & category sections
-- 📱 Responsive layout
+- 📱 Fully responsive layout
 - 🎨 Modern UI
-- ⚡ Structured frontend
+- ⚡ Structured frontend architecture
 
 ---
 
-### 🌦️ Weather Application
+## 🌦️ Weather Application
 
 **JavaScript · OpenWeatherMap API · Fetch API**
 
 Weather application providing real-time weather information based on the searched city.
 
-**Highlights**
+### Highlights
 
 - 🌍 City-based search
 - 🌡️ Celsius temperature
@@ -213,13 +213,13 @@ Weather application providing real-time weather information based on the searche
 
 ---
 
-### 🌐 Personal Portfolio
+## 🌐 Personal Portfolio
 
 **HTML5 · CSS3 · JavaScript**
 
 Responsive portfolio website showcasing my development skills, projects, and professional profile.
 
-**Highlights**
+### Highlights
 
 - 📱 Mobile-first design
 - 🎨 Clean interface
@@ -227,19 +227,17 @@ Responsive portfolio website showcasing my development skills, projects, and pro
 - ⚡ JavaScript interactions
 - 💻 Responsive layout
 
-<br>
-
 <div align="center">
 
 <a href="https://mahima-rajput-portfolio-live-website.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_View_Portfolio-111827?style=for-the-badge" alt="View Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_View_Portfolio-111827?style=for-the-badge" alt="View Portfolio" />
 </a>
 
 </div>
 
 ---
 
-### 💡 More Projects
+## 💡 More Projects
 
 I continuously build projects to strengthen my frontend and full-stack development skills.
 
@@ -248,7 +246,7 @@ Explore my repositories, experiments, and learning projects on GitHub.
 <div align="center">
 
 <a href="https://github.com/Mahima34?tab=repositories">
-<img src="https://img.shields.io/badge/📂_View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/📂_View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
 </a>
 
 </div>
@@ -280,49 +278,17 @@ Explore my repositories, experiments, and learning projects on GitHub.
 
 # 🏆 Certifications
 
-- **Front-End Libraries** — freeCodeCamp · `2025`
-- **Responsive Web Design** — freeCodeCamp · `2024`
-- **React + JavaScript** — 30DaysCoding · `2025`
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Mahima34&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&theme=transparent"
-  width="100%"
-  alt="Mahima's GitHub Statistics"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahima34&layout=compact&hide_border=true&border_radius=12&theme=transparent&langs_count=8"
-  width="100%"
-  alt="Mahima's Top Languages"
-/>
-
-</div>
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Mahima34&hide_border=true&radius=12&theme=github-compact"
-  width="100%"
-  alt="Mahima's GitHub Contribution Graph"
-/>
-
-</div>
+| Certification | Platform | Year |
+|---|---|---:|
+| Front-End Libraries | freeCodeCamp | 2025 |
+| Responsive Web Design | freeCodeCamp | 2024 |
+| React + JavaScript | 30DaysCoding | 2025 |
 
 ---
 
 # 🎯 Currently Learning
+
+<div align="center">
 
 | Technology | Focus |
 |---|---|
@@ -336,6 +302,23 @@ Explore my repositories, experiments, and learning projects on GitHub.
 | 🐳 Docker | Basics |
 | 🔄 CI/CD | Basics |
 
+</div>
+
+---
+
+# 📌 What I Do
+
+<div align="center">
+
+| 💻 Frontend | ⚙️ Backend | 🌐 Web Development |
+|---|---|---|
+| React.js | Node.js | WordPress |
+| JavaScript | Express.js | WooCommerce |
+| Tailwind CSS | REST APIs | Elementor |
+| Responsive UI | MongoDB | Theme Customization |
+
+</div>
+
 ---
 
 # 🤝 Let's Connect
@@ -347,19 +330,22 @@ Explore my repositories, experiments, and learning projects on GitHub.
 <br>
 
 <a href="https://www.linkedin.com/in/mahima-rajput36/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+&nbsp;
 
 <a href="https://github.com/Mahima34">
-<img src="https://img.shields.io/badge/GitHub-Mahima34-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Mahima34-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+&nbsp;
 
 <a href="https://mahima-rajput-portfolio-live-website.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
+&nbsp;
 
 <a href="mailto:mahimarajput72@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br><br>
