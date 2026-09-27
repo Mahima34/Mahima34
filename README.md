@@ -4,7 +4,7 @@
 
 ### 💻 Full-Stack Developer
 
-**React.js · JavaScript · Node.js · WordPress · Tailwind CSS**
+**React.js · JavaScript · Node.js · Express.js · WordPress · Tailwind CSS**
 
 <p>
   <a href="https://mahima-rajput-portfolio-live-website.netlify.app/">
@@ -27,19 +27,19 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Full-Stack Developer** focused on creating modern, responsive, and user-friendly web applications.
+I'm a **Full-Stack Developer** focused on building modern, responsive, and user-friendly web applications.
 
-I enjoy working across the complete development process — from designing interactive frontend interfaces to integrating APIs, building backend functionality, working with databases, and deploying applications.
+I enjoy working across the complete development process — from creating interactive frontend interfaces to integrating APIs, developing backend functionality, working with databases, and deploying applications.
 
-* ⚛️ Building applications with **React.js & JavaScript**
-* 🎨 Creating responsive interfaces with **Tailwind CSS**
-* 🖥️ Developing backend applications using **Node.js & Express.js**
-* 🗄️ Working with **MongoDB & MySQL**
-* 🌐 Building and customizing **WordPress & WooCommerce websites**
-* 🔌 Integrating **REST APIs**
-* 🔧 Using **Git & GitHub** for version control
-* 🚀 Learning **Docker, CI/CD & deployment workflows**
-* 📚 Continuously improving through real-world projects
+- ⚛️ Building applications with **React.js & JavaScript**
+- 🎨 Creating responsive interfaces with **Tailwind CSS**
+- 🖥️ Developing backend applications using **Node.js & Express.js**
+- 🗄️ Working with **MongoDB & MySQL**
+- 🌐 Building and customizing **WordPress & WooCommerce websites**
+- 🔌 Integrating **REST APIs**
+- 🔧 Using **Git & GitHub** for version control
+- 🚀 Learning **Docker, CI/CD & deployment workflows**
+- 📚 Continuously improving through real-world projects
 
 ---
 
@@ -50,28 +50,42 @@ I enjoy working across the complete development process — from designing inter
 ### 💻 Frontend
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML5" />
+<img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5" />
 </a>
+&nbsp;
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS3" />
+<img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3" />
 </a>
+&nbsp;
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" />
 </a>
+&nbsp;
+
 <a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" width="55" alt="React" />
+<img src="https://skillicons.dev/icons?i=react" width="50" alt="React" />
 </a>
+&nbsp;
+
 <a href="https://nextjs.org/">
-<img src="https://skillicons.dev/icons?i=nextjs" width="55" alt="Next.js" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js" />
 </a>
+&nbsp;
+
 <a href="https://redux.js.org/">
-<img src="https://skillicons.dev/icons?i=redux" width="55" alt="Redux" />
+<img src="https://skillicons.dev/icons?i=redux" width="50" alt="Redux" />
 </a>
+&nbsp;
+
 <a href="https://tailwindcss.com/">
-<img src="https://skillicons.dev/icons?i=tailwind" width="55" alt="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS" />
 </a>
+&nbsp;
+
 <a href="https://getbootstrap.com/">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="55" alt="Bootstrap" />
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap" />
 </a>
 
 <br><br>
@@ -79,19 +93,27 @@ I enjoy working across the complete development process — from designing inter
 ### ⚙️ Backend & Database
 
 <a href="https://nodejs.org/">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js" />
 </a>
+&nbsp;
+
 <a href="https://expressjs.com/">
-<img src="https://skillicons.dev/icons?i=express" width="55" alt="Express.js" />
+<img src="https://skillicons.dev/icons?i=express" width="50" alt="Express.js" />
 </a>
+&nbsp;
+
 <a href="https://www.mongodb.com/">
-<img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB" />
 </a>
+&nbsp;
+
 <a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL" />
 </a>
+&nbsp;
+
 <a href="https://www.typescriptlang.org/">
-<img src="https://skillicons.dev/icons?i=typescript" width="55" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=typescript" width="50" alt="TypeScript" />
 </a>
 
 <br><br>
@@ -99,28 +121,42 @@ I enjoy working across the complete development process — from designing inter
 ### 🧰 Tools & DevOps
 
 <a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="55" alt="Git" />
+<img src="https://skillicons.dev/icons?i=git" width="50" alt="Git" />
 </a>
+&nbsp;
+
 <a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
 </a>
+&nbsp;
+
 <a href="https://vite.dev/">
-<img src="https://skillicons.dev/icons?i=vite" width="55" alt="Vite" />
+<img src="https://skillicons.dev/icons?i=vite" width="50" alt="Vite" />
 </a>
+&nbsp;
+
 <a href="https://webpack.js.org/">
-<img src="https://skillicons.dev/icons?i=webpack" width="55" alt="Webpack" />
+<img src="https://skillicons.dev/icons?i=webpack" width="50" alt="Webpack" />
 </a>
+&nbsp;
+
 <a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker" width="55" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker" />
 </a>
+&nbsp;
+
 <a href="https://www.linux.org/">
-<img src="https://skillicons.dev/icons?i=linux" width="55" alt="Linux" />
+<img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux" />
 </a>
+&nbsp;
+
 <a href="https://vercel.com/">
-<img src="https://skillicons.dev/icons?i=vercel" width="55" alt="Vercel" />
+<img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel" />
 </a>
+&nbsp;
+
 <a href="https://www.netlify.com/">
-<img src="https://skillicons.dev/icons?i=netlify" width="55" alt="Netlify" />
+<img src="https://skillicons.dev/icons?i=netlify" width="50" alt="Netlify" />
 </a>
 
 </div>
@@ -131,21 +167,17 @@ I enjoy working across the complete development process — from designing inter
 
 <div align="center">
 
-`WordPress`   `Elementor`   `WooCommerce`   `Theme Customization`
+**WordPress** · **Elementor** · **WooCommerce** · **Theme Customization**
 
-`Plugin Integration`   `Tailwind CSS`   `ShadCN UI`   `Chakra UI`
+**Plugin Integration** · **Tailwind CSS** · **ShadCN UI** · **Chakra UI**
 
-`SASS`   `Responsive Design`   `REST API`
+**SASS** · **Responsive Design** · **REST API**
 
 </div>
 
 ---
 
 # 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 🛍️ E-Commerce Web Application
 
@@ -155,37 +187,31 @@ Modern eCommerce interface built with reusable React components and a responsive
 
 **Highlights**
 
-* 🧩 Reusable component architecture
-* 🛒 Product & category sections
-* 📱 Responsive layout
-* 🎨 Modern UI
-* ⚡ Structured frontend
+- 🧩 Reusable component architecture
+- 🛒 Product & category sections
+- 📱 Responsive layout
+- 🎨 Modern UI
+- ⚡ Structured frontend
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🌦️ Weather Application
 
 **JavaScript · OpenWeatherMap API · Fetch API**
 
-Weather application providing real-time information based on the searched city.
+Weather application providing real-time weather information based on the searched city.
 
 **Highlights**
 
-* 🌍 City-based search
-* 🌡️ Celsius temperature
-* 🌤️ Weather conditions
-* 💨 Wind speed
-* 🕐 Date & time
-* ⚠️ API error handling
-* 📱 Responsive design
+- 🌍 City-based search
+- 🌡️ Celsius temperature
+- 🌤️ Weather conditions
+- 💨 Wind speed
+- 🕐 Date & time
+- ⚠️ API error handling
+- 📱 Responsive design
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 🌐 Personal Portfolio
 
@@ -195,37 +221,37 @@ Responsive portfolio website showcasing my development skills, projects, and pro
 
 **Highlights**
 
-* 📱 Mobile-first design
-* 🎨 Clean interface
-* 🧩 Semantic HTML
-* ⚡ JavaScript interactions
-* 💻 Responsive layout
+- 📱 Mobile-first design
+- 🎨 Clean interface
+- 🧩 Semantic HTML
+- ⚡ JavaScript interactions
+- 💻 Responsive layout
 
 <br>
+
+<div align="center">
 
 <a href="https://mahima-rajput-portfolio-live-website.netlify.app/">
 <img src="https://img.shields.io/badge/🌐_View_Portfolio-111827?style=for-the-badge" alt="View Portfolio" />
 </a>
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+---
 
 ### 💡 More Projects
 
 I continuously build projects to strengthen my frontend and full-stack development skills.
 
-You can explore my repositories, experiments, and learning projects on GitHub.
+Explore my repositories, experiments, and learning projects on GitHub.
 
-<br>
+<div align="center">
 
 <a href="https://github.com/Mahima34?tab=repositories">
 <img src="https://img.shields.io/badge/📂_View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -235,10 +261,10 @@ You can explore my repositories, experiments, and learning projects on GitHub.
 
 **Gurugram, Haryana · Dec 2021 – Feb 2023**
 
-* Performed testing and validation of electronic devices
-* Conducted functional and quality checks
-* Maintained testing data, logs, and technical reports
-* Followed established testing and quality procedures
+- Performed testing and validation of electronic devices
+- Conducted functional and quality checks
+- Maintained testing data, logs, and technical reports
+- Followed established testing and quality procedures
 
 ---
 
@@ -254,11 +280,9 @@ You can explore my repositories, experiments, and learning projects on GitHub.
 
 # 🏆 Certifications
 
-| Certification         | Platform     | Year |
-| --------------------- | ------------ | ---: |
-| Front-End Libraries   | freeCodeCamp | 2025 |
-| Responsive Web Design | freeCodeCamp | 2024 |
-| React + JavaScript    | 30DaysCoding | 2025 |
+- **Front-End Libraries** — freeCodeCamp · `2025`
+- **Responsive Web Design** — freeCodeCamp · `2024`
+- **React + JavaScript** — 30DaysCoding · `2025`
 
 ---
 
@@ -266,9 +290,19 @@ You can explore my repositories, experiments, and learning projects on GitHub.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mahima34&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" width="48%" alt="GitHub Statistics" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Mahima34&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&theme=transparent"
+  width="100%"
+  alt="Mahima's GitHub Statistics"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahima34&layout=compact&hide_border=true&border_radius=12" width="48%" alt="Top Languages" />
+<br><br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahima34&layout=compact&hide_border=true&border_radius=12&theme=transparent&langs_count=8"
+  width="100%"
+  alt="Mahima's Top Languages"
+/>
 
 </div>
 
@@ -278,7 +312,11 @@ You can explore my repositories, experiments, and learning projects on GitHub.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahima34&hide_border=true&radius=12" width="95%" alt="GitHub Contribution Graph" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Mahima34&hide_border=true&radius=12&theme=github-compact"
+  width="100%"
+  alt="Mahima's GitHub Contribution Graph"
+/>
 
 </div>
 
@@ -286,21 +324,17 @@ You can explore my repositories, experiments, and learning projects on GitHub.
 
 # 🎯 Currently Learning
 
-<div align="center">
-
-| Technology    | Focus        |
-| ------------- | ------------ |
-| ⚛️ React.js   | Advanced     |
-| 🟨 JavaScript | Advanced     |
-| 🟢 Node.js    | Intermediate |
+| Technology | Focus |
+|---|---|
+| ⚛️ React.js | Advanced |
+| 🟨 JavaScript | Advanced |
+| 🟢 Node.js | Intermediate |
 | 🚂 Express.js | Intermediate |
-| 🍃 MongoDB    | Intermediate |
+| 🍃 MongoDB | Intermediate |
 | 🔷 TypeScript | Intermediate |
-| ▲ Next.js     | Learning     |
-| 🐳 Docker     | Basics       |
-| 🔄 CI/CD      | Basics       |
-
-</div>
+| ▲ Next.js | Learning |
+| 🐳 Docker | Basics |
+| 🔄 CI/CD | Basics |
 
 ---
 
