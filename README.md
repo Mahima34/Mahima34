@@ -1,71 +1,69 @@
 # 👋 Hi, I'm Mahima Rajput
 
-### 💻 Full-Stack Developer | React.js · JavaScript · WordPress · Node.js · Tailwind CSS
+### 💻 Full-Stack Developer | React.js · JavaScript · Node.js · WordPress
 
-I’m a **Full-Stack Developer** passionate about building modern, responsive, and user-focused web applications. I enjoy turning ideas into clean, scalable digital experiences using modern frontend technologies, backend tools, APIs, and deployment workflows.
-
-I’m currently focused on strengthening my **full-stack development skills**, building real-world projects, and continuously improving my development workflow.
-
-<p>
+<p align="left">
   <a href="https://mahima-rajput-portfolio-live-website.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-4A4A4A?style=flat&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mahima-rajput36/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mahima%20Rajput-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Mahima34">
-    <img src="https://img.shields.io/badge/GitHub-Mahima34-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:mahimarajput72@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-* ⚛️ Build responsive web applications with **React.js, JavaScript, and modern CSS**
-* 🧩 Develop reusable and maintainable UI components
-* 🌐 Create and customize **WordPress websites**
-* 🛒 Build and manage **WooCommerce eCommerce solutions**
-* 🔌 Integrate **REST APIs** and dynamic data
-* 🖥️ Work with **Node.js, Express.js, and databases**
-* 🔄 Use **Git, GitHub, and CI/CD workflows**
-* ☁️ Deploy applications using **Vercel and Netlify**
-* 📱 Focus on responsive, accessible, and user-friendly interfaces
+I'm a **Full-Stack Developer** focused on building responsive, modern, and user-friendly web applications.
+
+I enjoy working across the development stack — from creating interactive frontend interfaces to integrating APIs, building backend functionality, working with databases, and deploying applications.
+
+* ⚛️ Building web applications with **React.js & JavaScript**
+* 🎨 Creating responsive interfaces with **Tailwind CSS & modern UI libraries**
+* 🖥️ Learning and building backend applications with **Node.js & Express.js**
+* 🗄️ Working with **MySQL & MongoDB**
+* 🌐 Developing and customizing **WordPress & WooCommerce websites**
+* 🔌 Integrating **REST APIs**
+* 🔧 Using **Git & GitHub** for version control
+* 🚀 Exploring **Docker, CI/CD & cloud deployment**
+* 📚 Continuously learning and building real-world projects
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
+### 💻 Frontend
 
-`React.js` `JavaScript ES6+` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Redux` `Next.js`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap" />
+</p>
 
-### Backend
+### ⚙️ Backend & Database
 
-`Node.js` `Express.js` `REST APIs` `TypeScript`
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,typescript" />
+</p>
 
-### Database
+### 🧰 Tools & DevOps
 
-`MySQL` `MongoDB`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vite,webpack,docker,linux,vercel,netlify" />
+</p>
 
-### WordPress & eCommerce
+### 🌐 WordPress
 
-`WordPress` `Elementor` `WooCommerce` `Theme Customization` `Plugin Integration`
+`WordPress` · `Elementor` · `WooCommerce` · `Theme Customization` · `Plugin Integration`
 
-### UI & Styling
+### 🎨 UI & Styling
 
-`ShadCN UI` `Chakra UI` `SASS` `Responsive Design`
-
-### Tools & Development
-
-`Git` `GitHub` `Vite` `Webpack` `Babel` `NPM` `PostCSS`
-
-### DevOps & Deployment
-
-`GitHub Actions` `CI/CD` `Docker Basics` `Linux Basics` `Vercel` `Netlify`
+`Tailwind CSS` · `Bootstrap` · `ShadCN UI` · `Chakra UI` · `SASS` · `Responsive Design`
 
 ---
 
@@ -75,15 +73,15 @@ I’m currently focused on strengthening my **full-stack development skills**, b
 
 **React.js · Vite · Tailwind CSS · JavaScript**
 
-A responsive eCommerce interface built with reusable React components, structured product sections, intuitive navigation, and a modern user experience.
+A modern and responsive eCommerce interface designed with reusable React components and a clean user experience.
 
-**Key Features:**
+**Highlights**
 
-* Responsive product interface
-* Reusable React components
-* Product and category sections
-* Modern responsive UI
-* Clean frontend architecture
+* 🧩 Reusable component architecture
+* 🛒 Product and category sections
+* 📱 Fully responsive layout
+* 🎨 Modern UI design
+* ⚡ Fast and structured frontend
 
 ---
 
@@ -91,59 +89,59 @@ A responsive eCommerce interface built with reusable React components, structure
 
 **JavaScript · OpenWeatherMap API · Fetch API · HTML5 · CSS3**
 
-A weather application that allows users to search for city-based weather information and view current weather conditions.
+A weather application that provides real-time weather information based on the searched city.
 
-**Key Features:**
+**Highlights**
 
-* City-based weather search
-* Celsius temperature display
-* Weather condition information
-* Wind speed
-* Current date and time
-* Input validation
-* API error handling
-* Responsive interface
+* 🌍 City-based weather search
+* 🌡️ Celsius temperature
+* 🌤️ Current weather condition
+* 💨 Wind speed
+* 🕐 Date and time
+* ⚠️ Input validation & API error handling
+* 📱 Responsive design
 
 ---
 
 ### 🌐 Personal Portfolio
 
-**HTML5 · CSS3 · JavaScript · Responsive Web Design**
+**HTML5 · CSS3 · JavaScript**
 
-A responsive developer portfolio showcasing my skills, projects, experience, and professional profile.
+A responsive personal portfolio website designed to showcase my development skills, projects, and professional journey.
 
-**Key Features:**
+**Highlights**
 
-* Mobile-first responsive design
-* Semantic HTML structure
-* Modern CSS
-* Interactive JavaScript elements
-* Clean and professional UI
+* 📱 Mobile-first design
+* 🎨 Clean modern interface
+* 🧩 Semantic HTML
+* ⚡ Interactive JavaScript
+* 💻 Responsive across devices
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### Junior Engineer — VVDN Technologies Pvt. Ltd.
 
 **Gurugram, Haryana · Dec 2021 – Feb 2023**
 
 * Performed testing and validation of electronic devices
-* Conducted quality checks and functional inspections
+* Conducted functional and quality checks
 * Maintained testing data, logs, and technical reports
-* Followed defined testing and quality-control procedures
+* Followed established testing and quality procedures
 
 ---
 
 ## 🎓 Education
 
-**B.Tech — Computer Science & Engineering**
-Veer Kunwar Institute of Technology, Bijnor
+### B.Tech — Computer Science & Engineering
+
+**Veer Kunwar Institute of Technology, Bijnor**
 **2022 – 2025**
 
 ---
 
-## 🏆 Certifications & Training
+## 🏆 Certifications
 
 * 📜 **Front-End Libraries Certification** — freeCodeCamp, 2025
 * 📜 **Responsive Web Design Certification** — freeCodeCamp, 2024
@@ -151,56 +149,71 @@ Veer Kunwar Institute of Technology, Bijnor
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahima34&show_icons=true&hide_border=true&rank_icon=github" alt="Mahima's GitHub Stats" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Mahima34&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" 
+    height="170"
+    alt="Mahima Rajput GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahima34&layout=compact&hide_border=true" 
+    height="170"
+    alt="Mahima Rajput Top Languages"
+  />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahima34&hide_border=true" alt="GitHub Streak" />
+---
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mahima34&hide_border=true"
+    alt="Mahima Rajput GitHub Contribution Graph"
+  />
 </p>
 
 ---
 
 ## 🎯 Currently Learning
 
-* 🔹 Advanced React.js
-* 🔹 Next.js
-* 🔹 Node.js & Express.js
-* 🔹 MongoDB & MySQL
-* 🔹 TypeScript
-* 🔹 Authentication & REST APIs
-* 🔹 Docker & CI/CD
-* 🔹 Full-Stack Application Architecture
-
----
-
-## 🌱 Beyond Coding
-
-🏸 Badminton · ✈️ Traveling · 🌿 Gardening
+```text
+React.js          ████████████████████░   Advanced
+JavaScript        ███████████████████░░   Advanced
+Node.js           ███████████████░░░░░   Intermediate
+Express.js        ███████████████░░░░░   Intermediate
+MongoDB           █████████████░░░░░░░   Intermediate
+TypeScript        ███████████░░░░░░░░░   Intermediate
+Next.js           ███████████░░░░░░░░░   Learning
+Docker            ████████░░░░░░░░░░░░   Basics
+CI/CD             ████████░░░░░░░░░░░░   Basics
+```
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to **collaboration, development opportunities, and interesting web projects**.
+I'm interested in **web development, full-stack projects, collaboration, and opportunities to grow as a developer.**
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/mahima-rajput36/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Mahima34">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Mahima34-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://mahima-rajput-portfolio-live-website.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-4A4A4A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:mahimarajput72@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💡 *"Build. Learn. Improve. Repeat."*
+### 💡 Build • Learn • Create • Improve
+
+⭐ **Thanks for visiting my profile!**
