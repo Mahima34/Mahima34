@@ -152,16 +152,11 @@ A responsive personal portfolio website designed to showcase my development skil
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mahima34&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" 
-    height="170"
-    alt="Mahima Rajput GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahima34&layout=compact&hide_border=true" 
-    height="170"
-    alt="Mahima Rajput Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahima34&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahima34&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -169,11 +164,9 @@ A responsive personal portfolio website designed to showcase my development skil
 ## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mahima34&hide_border=true"
-    alt="Mahima Rajput GitHub Contribution Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahima34&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
+
 
 ---
 
